@@ -1,0 +1,29 @@
+#Product Recommendation System
+
+This project recommends products to users based on their preferences using Machine Learning techniques.
+
+🔍 Project Steps
+
+- Data collection and preprocessing
+- Feature extraction
+- Similarity calculation
+- Generating recommendations
+
+🤖 Model Used
+
+- Content-Based Filtering
+
+📊 Result
+
+The system successfully recommends similar products based on user input.
+
+📁 Dataset
+
+Product dataset used for building recommendation system
+
+🚀 Tools Used
+
+- Python
+- Pandas
+- Scikit-learn
+- Google Colab
